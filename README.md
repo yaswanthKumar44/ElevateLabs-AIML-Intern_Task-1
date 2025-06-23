@@ -66,7 +66,7 @@ The goal of this task was to clean and prepare raw data for machine learning mod
 
 Task-1-Data-Cleaning-Preprocessing/
 ├── dataset/
-│   └── titanic.csv
+│   └── Titanic.csv
 ├── images/
 │   └── boxplots.png
 ├── Task\_1\_Data\_Cleaning\_Preprocessing.ipynb
@@ -78,7 +78,7 @@ Task-1-Data-Cleaning-Preprocessing/
 
 ##  How to Run
 
-1. Upload `titanic.csv` to Colab via:
+1. Upload `Titanic.csv` to Colab via:
    ```python
    from google.colab import files
    files.upload()
@@ -97,20 +97,3 @@ Successfully completed data cleaning and preprocessing operations to prepare the
 ##  Author
 
 P. Yaswanth Kumar
-[GitHub Profile](https://github.com/yaswanthKumar44)
-
-```
-
----
-
-## ✅ What to Do Now:
-- Create a new GitHub repo: `Task-1-Data-Cleaning-Preprocessing`
-- Upload:
-  - `Task_1_Data_Cleaning_Preprocessing.ipynb`
-  - `dataset/titanic.csv`
-  - `images/boxplots.png` (if you save your plots via `plt.savefig()`)
-  - `README.md`
-
-And you’re done. 🚀✅
-
----
